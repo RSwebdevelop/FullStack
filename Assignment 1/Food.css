@@ -1,0 +1,115 @@
+.head {
+    background-color: lightseagreen;
+    height : 80px;
+}
+
+h1 {
+    padding-top: 20px;
+    margin-left : 40%;
+    margin-top : 30px;
+    color : white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+}
+
+img {
+    width : 200px;
+    height : 200px;
+    margin : 20px;
+    
+}
+
+#images {
+    margin-top : 30px;
+    }
+
+#first-row {
+    display : flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#second-row {   
+    display : flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#third-row {
+    display : flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#foodislove {
+    width : 70%;
+    margin : auto;
+    background-color: lightseagreen;
+    border-left : 10px solid crimson;
+    border-top : 10px solid green;
+    border-right : 10px solid magenta;
+    border-bottom : 10px solid blue;
+}
+
+#foodislove > h4 {
+    text-align: center;
+    color : white;
+    font-size : 1.7rem; 
+}
+
+p {
+    color : white;
+    font-size : 1.4rem;
+    padding : 5px;
+}
+
+#Bowl {
+    border : 10px solid lightseagreen; 
+    
+}
+
+#chopstick {
+    border : 10px dashed lightseagreen; 
+}
+
+#Burger {
+    border : 10px dotted lightseagreen; 
+}
+
+#cherry {
+    border : 10px inset lightseagreen; 
+}
+
+#cream Roll {
+    border : 10px outset lightseagreen; 
+}
+
+#gravy {
+    border : 10px double lightseagreen; 
+}
+#pizza {
+    border : 10px double lightseagreen; 
+}
+
+#link {
+    background-color: lightseagreen;
+    height : 80px;
+    margin-top : 30px;
+    display : flex;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+a {
+    text-decoration : none;
+    color : white;
+    font-size : 1.4rem;
+    margin : 20px 20px;
+    
+}
+
+a:hover {
+    text-decoration: underline;
+    color : blue;
+}

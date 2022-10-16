@@ -1,0 +1,67 @@
+
+
+    
+       #header {
+        height : 150px;
+        background: linear-gradient(to bottom right, #ff9933, #006400);
+    }
+    
+        #header > h1 {
+            color : white;
+            font-size : 2.6rem;
+            margin-left : 10%;
+            padding-top : 50px;
+            font-family : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+    
+        #search {
+            margin : 20px 20%;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size : 2rem;
+        }
+    
+        input {
+          width : 500px;
+          height : 40px;
+          border : 2px solid #11e9de;
+          border-radius: 5px;
+          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+          font-size: 1.3rem;
+        }
+    
+        button {
+            width : 100px;
+            height : 40px;
+            background: linear-gradient(to bottom left, #80dfff , #ffe6ee);
+            border : 1px solid #eb0e0eb6;
+            border-radius: 5px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+            font-size: 1.2rem;
+            color : #3109e0;
+            margin-right : 10px;
+        }
+    
+        .taskassign {
+            margin : 20px 20%;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size : 1.6rem;
+        }
+    
+        .toright{
+            display: flex;
+            align-items: center;
+            justify-content:end;
+            border: 2px solid #f1aa40;
+            padding: 5px
+        }
+        .toright>p{
+            margin-right :auto
+        }
+    
+        .delete {
+            background: linear-gradient(to bottom right, #ee0606, #480bf1);
+            color : white;
+        }
+    
+    
+    
