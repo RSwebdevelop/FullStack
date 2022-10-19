@@ -1,0 +1,49 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+ /* .outer {
+    height: 250px;
+    width: 250px;
+    background-color: red;
+    border: 2px solid green;
+    outline-offset: 2px;
+    margin-top: 20px;
+    margin: 10px;
+    outline: 2px solid blue;
+    padding-top: 10px; 
+}  */
+/* .inner {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    margin: 10px;
+}   */
+
+.outer {
+  color: red;
+  /* background-color: blue; */
+  height: 250px;
+  width: 250px;
+  /* justify-content: center; */
+  /* text-decoration-line: underline overline; */
+  text-transform: capitalize;
+  font-size: 15px;
+  line-height: 20px;
+  /* text-indent: 50px; */
+  letter-spacing: 3px;
+  word-spacing: 25px;
+  /* text-decoration-color: yellow;
+  text-decoration-style: wavy; */
+  /* text-decoration: underline yellow 3px wavy; */
+  /* direction: rtl; */
+  /* text-align: right; */ 
+  padding: 100px; 
+  white-space: 20px;
+  text-shadow: 5px 0px 2px black;
+ 
+
+}
